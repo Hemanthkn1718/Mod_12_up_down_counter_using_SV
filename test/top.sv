@@ -38,7 +38,7 @@ module top();
 		cou1.run(); 
 		$finish; 
             end
-	if($test$plusargs("TEST1"))
+	if($test$plusargs("TEST3"))
             begin
                 te=new(duv_if,duv_if,duv_if); 
 		no_of_trans=50; 
